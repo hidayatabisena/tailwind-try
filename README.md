@@ -38,4 +38,4 @@ Sementara itu silahkan dibaca-baca dulu dokumentasi resminya:
 
 ### Hasil percobaan pertama
 
-![Image source](https://user-images.githubusercontent.com/3937792/105792511-2a1c8500-5fba-11eb-92df-9945b2ab0fcf.png)
+![Image source]https://user-images.githubusercontent.com/3937792/105792929-cf375d80-5fba-11eb-8eb2-284b889eeece.png)
