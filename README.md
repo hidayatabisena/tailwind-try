@@ -35,3 +35,7 @@ Saya berencana untuk memahami TailwindCSS hingga ke akar-akarnya untuk kemudian 
 
 Sementara itu silahkan dibaca-baca dulu dokumentasi resminya: 
 [https://tailwindcss.com/docs](https://tailwindcss.com/docs)
+
+### Hasil percobaan pertama
+
+![Image source](https://user-images.githubusercontent.com/3937792/105792511-2a1c8500-5fba-11eb-92df-9945b2ab0fcf.png)
