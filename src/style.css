@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .btn {
+        @apply px-4 py-4 text-lynx rounded m-10
+    }
+}
+
+@layer utilities {
+    .scroll-snap-none {
+      scroll-snap-type: none;
+    }
+    .scroll-snap-x {
+      scroll-snap-type: x;
+    }
+    .scroll-snap-y {
+      scroll-snap-type: y;
+    }
+  }
